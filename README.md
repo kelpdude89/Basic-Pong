@@ -6,7 +6,9 @@ This is a simple remix of pong with velocity physics written in lua and compiled
 
 Make sure [Love2D](https://love2d.org/) is installed.
 
-Download the compiled version from the releases section or compile yourself.
+Download the compiled version from the releases section and change from .zip to .love
+
+you can also compile yourself.
 
 
 
